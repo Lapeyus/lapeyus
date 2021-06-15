@@ -1,12 +1,5 @@
 ### Hi there 👋
-[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33717954)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26673762)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14349702)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13878741)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13752285)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moqm)
-
-[![Foo](https://training.linuxfoundation.org/wp-content/uploads/2020/07/kubernetes-security-specialist-logo-300x285.png)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moqm)[![Foo](https://www.cncf.io/wp-content/uploads/2020/08/kubernetes-ckad-color-276x270.png)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moqm)[![Foo](https://www.cncf.io/wp-content/uploads/2020/08/logo_cka_whitetext-2-250x250.png)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moqm)
-
-
-
-
-
+[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33717954)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26673762)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14349702)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13878741)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13752285)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moqm)[![Foo](https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2020/08/cncf_logos2.png)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moqm)
 
 <!--
 **Lapeyus/lapeyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
