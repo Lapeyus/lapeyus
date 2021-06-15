@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33717954)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26673762)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14349702)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13878741)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moq)[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13752285)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moqm)
+[![Foo](https://training.linuxfoundation.org/wp-content/uploads/2020/07/kubernetes-security-specialist-logo-300x285.png)](https://www.credential.net/profile/josephlopez30/wallet#gs.3f5moqm)
+
 
 
 <!--
