@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33717954
+[![Foo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33717954)](http://google.com.au/)
+
 
 <!--
 **Lapeyus/lapeyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
