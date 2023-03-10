@@ -30,9 +30,9 @@ I'm a strong believer in the power of open source software and have contributed 
 
 Here are some of my projects that are publicly available on GitHub:
 
-- [ConfigConnector](https://github.com/Lapeyus/IDP)
+- [IDP](https://github.com/Lapeyus/IDP)
   - Terraform - GCP code to bootstrap a Control plane cluster based on config connector tech.
-- [ConfigConnector](https://github.com/Lapeyus/secrets-manager)
+- [secrets-manager](https://github.com/Lapeyus/secrets-manager)
   - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
   
 
