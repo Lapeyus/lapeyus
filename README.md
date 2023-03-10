@@ -6,11 +6,12 @@ I'm a DevOps engineer with experience in designing and implementing automated so
 
 ### Certifications
 
-- Kubernetes Certified Administrator
-- Google Cloud Platform (GCP) Certified Professional Cloud Architect
-- Amazon Web Services (AWS) Certified Solutions Architect - Associate
-- Microsoft Azure Fundamentals
-- others
+- Kubernetes Certified Administrator ![Kubernetes Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png)
+- Google Cloud Platform (GCP) Certified Professional Cloud Architect ![GCP Logo](https://cloud.google.com/images/navigation/gcp-logo.png)
+- Amazon Web Services (AWS) Certified Solutions Architect - Associate ![AWS Logo](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.61f2b2a9454340625a8e7b9c3c72873f082dbe1e.png)
+- Microsoft Azure Fundamentals ![Azure Logo](https://www.azurethailand.com/wp-content/uploads/sites/6/2019/04/Azure-Aspire.png)
+- Others
+
 
 ### University Education
 
