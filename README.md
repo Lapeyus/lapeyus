@@ -15,7 +15,7 @@ I'm a DevOps engineer with experience in designing and implementing automated so
 
 ### University Education
 
-- Bachelor of Science in Computer Science, Universidad Estatal a Distancia (UNED)
+- Bachelor in Computer Science, Universidad Estatal a Distancia (UNED)
 
 ### Open Source Contributions
 
