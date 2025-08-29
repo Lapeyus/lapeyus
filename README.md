@@ -1,4 +1,35 @@
-# Joseph Villarreal
+### Hi there 👋
+
+I'm Joseph, a DevOps Engineer with a passion for automating and optimizing software development processes. I have experience in cloud computing, containerization, and CI/CD pipelines.
+
+### 🔧 Technologies & Tools
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🏆 Certifications
+
+- Kubernetes Certified Administrator
+- Google Cloud Platform (GCP) Certified Professional Cloud Architect
+- Amazon Web Services (AWS) Certified Solutions Architect - Associate
+- Microsoft Azure Fundamentals
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-villarreal-lopez-20360b119/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lapeyus)
+
+### 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lapeyus&show_icons=true&theme=radical)
+
+---
+
+*Feel free to check out my repositories and connect with me!*# Joseph Villarreal
 
 ## DevOps Engineer
 
