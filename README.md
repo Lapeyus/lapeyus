@@ -1,5 +1,3 @@
-Here is an improved version of your file, with the inclusion of icons and a more organized and visually appealing structure. 
-
  ### Hi there 👋 I'm Joseph, a DevOps Engineer with a passion for automating and optimizing software development processes. I have experience in cloud computing, containerization, and CI/CD pipelines. 
 
  --- 
