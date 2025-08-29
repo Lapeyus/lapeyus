@@ -80,7 +80,11 @@ KCNA · CKA · CKAD · CKS · AWS SysOps Associate · AWS Developer Associate ·
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapeyus&layout=compact&theme=radical" alt="Top Languages" height="150"/>  
 </p>  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lapeyus&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6)
+<p align="center">
+  <img src="https://img.shields.io/badge/Trophy-Open%20Source-blueviolet">
+  <img src="https://img.shields.io/badge/Trophy-DevOps-success">
+  <img src="https://img.shields.io/badge/Trophy-Cloud%20Engineer-informational">
+</p>
 
 
 
