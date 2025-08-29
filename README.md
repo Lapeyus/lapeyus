@@ -27,27 +27,27 @@
 
  #### Active 
  *   **Google Cloud:** 
-   - *   Generative AI Leader (Expires: Jun 2028) 
-   - *    Professional Cloud Security Engineer (Expires: Dec 2026) 
-   - *    Professional Cloud Developer (Expires: Nov 2026) 
-   - *    Professional Cloud Architect (Expires: Oct 2026) 
-   - *    Cloud Digital Leader (Expires: Sep 2027) 
-   - *    Professional Cloud DevOps Engineer (Expires: Dec 2026) 
-   - *    Associate Cloud Engineer (Expires: Sep 2027) 
+   -    Generative AI Leader (Expires: Jun 2028) 
+   -     Professional Cloud Security Engineer (Expires: Dec 2026) 
+   -     Professional Cloud Developer (Expires: Nov 2026) 
+   -     Professional Cloud Architect (Expires: Oct 2026) 
+   -     Cloud Digital Leader (Expires: Sep 2027) 
+   -     Professional Cloud DevOps Engineer (Expires: Dec 2026) 
+   -     Associate Cloud Engineer (Expires: Sep 2027) 
  *   **AWS:** 
-   - *    Certified DevOps Engineer – Professional (Expires: Dec 2027) 
+   -     Certified DevOps Engineer – Professional (Expires: Dec 2027) 
  *    **HashiCorp:** 
-   - *   Terraform Associate (003) (Expires: Jul 2026) 
+   -    Terraform Associate (003) (Expires: Jul 2026) 
  *   **The Linux Foundation:** 
-   - *    Kubestronaut (Issued: May 2024) 
-   - *    KCSA: Kubernetes and Cloud Native Security Associate (Expires: May 2026) 
-   - *    SC104: Developing Helm Charts (Issued: May 2023) 
-   - *    **GitHub:** 
-   - *    Foundations (Expires: Jul 2027) 
+   -     Kubestronaut (Issued: May 2024) 
+   -     KCSA: Kubernetes and Cloud Native Security Associate (Expires: May 2026) 
+   -     SC104: Developing Helm Charts (Issued: May 2023) 
+ *     **GitHub:** 
+   -     Foundations (Expires: Jul 2027) 
  *   **Codefresh:** 
-    - *   GitOps Fundamentals (Issued: Dec 2021) 
-    - *    **Microsoft:** 
-    - *    Azure Fundamentals (Issued: Apr 2019) 
+    -    GitOps Fundamentals (Issued: Dec 2021) 
+ *     **Microsoft:** 
+    -     Azure Fundamentals (Issued: Apr 2019) 
 
  #### Expired 
  *   KCNA: Kubernetes and Cloud Native Associate 
